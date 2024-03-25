@@ -38,3 +38,4 @@ phpunit.xml
 /inventory-vendors/*.json
 /locales/*.mo
 /inc/downstream.php
+.DS_Store

@@ -37,6 +37,7 @@ use Glpi\Stat\Data\Graph\StatDataSatisfaction;
 use Glpi\Stat\Data\Graph\StatDataSatisfactionSurvey;
 use Glpi\Stat\Data\Graph\StatDataTicketAverageTime;
 use Glpi\Stat\Data\Graph\StatDataTicketNumber;
+use CommonITILObject;
 
 /**
  * @var array $CFG_GLPI

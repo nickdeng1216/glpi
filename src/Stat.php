@@ -718,6 +718,7 @@ class Stat extends CommonGLPI
                                 'itemtype' => $itemtype,
                                 'type'     => $type,
                                 'champ'    => $value2,
+                                'id'       => $value[$i]['id']
                             ],
                             '&amp;'
                         );
